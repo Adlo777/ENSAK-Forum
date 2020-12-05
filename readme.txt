@@ -1,1 +1,1 @@
-Ceci est le projet de Java pour le Site du Forum ENSAK Entreprises
+Ceci est la seconde ligne de code ajoutée à notre merveilleurx travail basé sur une ligne de commande existante. Il faudrait savoir que là je suis jpuste en train d'apprendre Git. Bientôt je ferai des commits tous les jours.
